@@ -1,0 +1,58 @@
+.tag {
+  text-align: center;
+  border: 3px solid black;
+  border-radius: 4px;
+  padding: 5px;
+  display: block;
+  width: 500px;
+  margin: 0 auto;
+}
+
+.center-text {
+  text-align: center;
+  border: 0px solid black;
+}
+
+.center-exp {
+  display: block;
+  width: 250px;
+  margin: 0 auto;
+  border: none;
+}
+
+figure {
+  border: thin #c0c0c0 solid;
+  display: flex;
+  flex-flow: column;
+  padding: 5px;
+  max-width: 300px;
+  margin: auto;
+}
+
+figcaption {
+  background-color: rgb(83, 79, 169);
+  color: #fff;
+  font: normal smaller sans-serif;
+  padding: 3px;
+  text-align: center;
+}
+
+.kbd2 {
+  font-family: monospace;
+  font-weight: bold;
+  padding: 2px;
+  border: 2px solid black;
+  border-radius: 4px;
+  box-shadow: -2px 2px 2px black;
+}
+
+.bold-text {
+  font-weight: bold;
+  font-family: monospace;
+}
+
+.max-width {
+  display: block;
+  max-width: 500px;
+  margin: 0 auto;
+}
